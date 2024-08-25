@@ -24,6 +24,6 @@ int main() {
     if(initList( &list)){
 
     }else{
-        printf("顺序表初始化失败，无法启动！");
+        printf("顺序表初始化失败！");
     }
 }
